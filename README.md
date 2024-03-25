@@ -27,6 +27,9 @@ eu gostei bastante do video, pode meloar muito ainda, mas é interessante como a
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```eu estou a pouco tempo me interessando por IAS e bom ver o que elas podem fazer e como podem ser aplicadas é realmente algo fenomenal, me inspirou bastante essa iniciativa da Dio de trazer esse tipo de conteudo.
+eu estou a pouco tempo me interessando por IAS e bom ver o que elas podem fazer e como podem ser aplicadas é realmente algo fenomenal, me inspirou bastante essa iniciativa da Dio de trazer esse tipo de conteudo.
 
+
+link do projeto:https://www.linkedin.com/posts/henrique-anthony-27a5a3248_ia-inovaaexaeto-tecnologia-activity-7178116248055017472-wwjo?utm_source=share&utm_medium=member_desktop
+postei no linkedin :)
 
